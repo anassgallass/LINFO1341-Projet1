@@ -1,0 +1,79 @@
+Host,Issued By,Issued To,Valid From,Valid Until
+detectportal.firefox.com,R3,detectportal.firefox.com,05-02-2024,05-05-2024
+www.dropbox.com,DigiCert TLS RSA SHA256 2020 CA1,*.dropbox.com,31-10-2023,30-11-2024
+cfl.dropboxstatic.com,DigiCert TLS RSA SHA256 2020 CA1,cfl.dropboxstatic.com,06-02-2024,03-03-2025
+previews.dropbox.com,DigiCert TLS RSA SHA256 2020 CA1,*.previews.dropboxusercontent.com,23-09-2023,22-10-2024
+ocsp.digicert.com,DigiCert Global G2 TLS RSA SHA256 2020 CA1,digicert.edgecastcdn.net,12-04-2023,12-05-2024
+fp2e7a.wpc.phicdn.net,DigiCert Global G2 TLS RSA SHA256 2020 CA1,digicert.edgecastcdn.net,12-04-2023,12-05-2024
+incoming.telemetry.mozilla.org,GTS CA 1D4,data.mozilla.com,21-02-2024,21-05-2024
+accounts.google.com,invalid2.invalid,invalid2.invalid,01-01-2015,01-01-2030
+telemetry-incoming.r53-2.services.mozilla.com,GTS CA 1D4,data.mozilla.com,21-02-2024,21-05-2024
+ocsp.pki.goog,invalid2.invalid,invalid2.invalid,01-01-2015,01-01-2030
+www.gstatic.com,invalid2.invalid,invalid2.invalid,01-01-2015,01-01-2030
+fonts.gstatic.com,invalid2.invalid,invalid2.invalid,01-01-2015,01-01-2030
+connectivity-check.ubuntu.com,R3,admin.insights.ubuntu.com,02-02-2024,02-05-2024
+play.google.com,invalid2.invalid,invalid2.invalid,01-01-2015,01-01-2030
+www.google.com,invalid2.invalid,invalid2.invalid,01-01-2015,01-01-2030
+dropboxcaptcha.com,DigiCert TLS RSA SHA256 2020 CA1,dropboxcaptcha.com,02-01-2024,27-01-2025
+ocsp.r2m01.amazontrust.com,Amazon RSA 2048 M03,crl.r2m01.amazontrust.com,17-10-2023,14-11-2024
+safebrowsing.googleapis.com,invalid2.invalid,invalid2.invalid,01-01-2015,01-01-2030
+bolt.dropbox.com,DigiCert TLS RSA SHA256 2020 CA1,bolt.dropbox.com,16-10-2023,04-11-2024
+bolt.v.dropbox.com,DigiCert TLS RSA SHA256 2020 CA1,bolt.dropbox.com,16-10-2023,04-11-2024
+d-edge.v.dropbox.com,DigiCert TLS RSA SHA256 2020 CA1,*.dropbox.com,31-10-2023,30-11-2024
+d.dropbox.com,DigiCert TLS RSA SHA256 2020 CA1,*.dropbox.com,31-10-2023,30-11-2024
+www-env.dropbox-dns.com,DigiCert TLS RSA SHA256 2020 CA1,*.dropbox.com,31-10-2023,30-11-2024
+thunder.dropbox.com,DigiCert TLS RSA SHA256 2020 CA1,bolt.dropbox.com,16-10-2023,04-11-2024
+beacon.dropbox.com,DigiCert TLS RSA SHA256 2020 CA1,bolt.dropbox.com,16-10-2023,04-11-2024
+contile.services.mozilla.com,R3,contile.services.mozilla.com,03-02-2024,03-05-2024
+spocs.mozilla.net,R3,mars.prod.ads.prod.webservices.mozgcp.net,05-02-2024,05-05-2024
+prod.ads.prod.webservices.mozgcp.net,R3,mars.prod.ads.prod.webservices.mozgcp.net,05-02-2024,05-05-2024
+r3.o.lencr.org,DigiCert TLS RSA SHA256 2020 CA1,a248.e.akamai.net,16-05-2023,15-05-2024
+uce541689388f2df80fbb0043126.dl.dropboxusercontent.com,DigiCert TLS RSA SHA256 2020 CA1,*.dl.dropboxusercontent.com,25-03-2024,11-03-2025
+sb-ssl.google.com,invalid2.invalid,invalid2.invalid,01-01-2015,01-01-2030
+uc2405a8a31522b36645d13df43d.dl.dropboxusercontent.com,DigiCert TLS RSA SHA256 2020 CA1,*.dl.dropboxusercontent.com,25-03-2024,11-03-2025
+fonts.googleapis.com,invalid2.invalid,invalid2.invalid,01-01-2015,01-01-2030
+pki-goog.l.google.com,invalid2.invalid,invalid2.invalid,01-01-2015,01-01-2030
+dropbox.com,DigiCert TLS RSA SHA256 2020 CA1,*.dropbox.com,31-10-2023,30-11-2024
+word-edit.officeapps.live.com,Microsoft Azure RSA TLS Issuing CA 04,*.azureedge.net,03-01-2024,28-12-2024
+euc-word-telemetry.officeapps.live.com,Microsoft Azure RSA TLS Issuing CA 03,officeapps.live.com,22-01-2024,16-01-2025
+officeclient.microsoft.com,Microsoft Azure RSA TLS Issuing CA 08,config.officeapps.live.com,22-02-2024,16-02-2025
+fs.microsoft.com,Microsoft Azure ECC TLS Issuing CA 05,fs.microsoft.com,24-08-2023,27-06-2024
+e16604.g.akamaiedge.net,Microsoft Azure ECC TLS Issuing CA 05,fs.microsoft.com,24-08-2023,27-06-2024
+eu-office.events.data.microsoft.com,Microsoft Azure RSA TLS Issuing CA 04,*.events.data.microsoft.com,31-12-2023,25-12-2024
+onedscolprdweu05.westeurope.cloudapp.azure.com,Microsoft Azure RSA TLS Issuing CA 04,*.events.data.microsoft.com,18-03-2024,13-03-2025
+ecs.office.com,Microsoft Azure RSA TLS Issuing CA 04,*.azureedge.net,03-01-2024,28-12-2024
+amcdn.msftauth.net,Microsoft Azure RSA TLS Issuing CA 07,*.azureedge.net,25-02-2024,19-02-2025
+storage.live.com,Microsoft Azure RSA TLS Issuing CA 08,storage.live.com,12-01-2024,06-01-2025
+common-emea.onedrive.akadns.net,Microsoft Azure RSA TLS Issuing CA 08,storage.live.com,12-01-2024,06-01-2025
+js.monitor.azure.com,Microsoft Azure RSA TLS Issuing CA 07,*.azureedge.net,25-02-2024,19-02-2025
+mrodevicemgr.officeapps.live.com,Microsoft Azure RSA TLS Issuing CA 08,mrodevicemgr.officeapps.live.com,27-02-2024,21-02-2025
+login.live.com,DigiCert SHA2 Secure Server CA,graph.windows.net,10-01-2024,10-01-2025
+www.tm.v4.a.prd.aadg.akadns.net,DigiCert SHA2 Secure Server CA,graph.windows.net,08-02-2024,08-02-2025
+store.office.com,Microsoft Azure RSA TLS Issuing CA 07,external.omex.office.net,30-01-2024,24-01-2025
+omex.cdn.office.net,DigiCert TLS RSA SHA256 2020 CA1,a248.e.akamai.net,16-05-2023,15-05-2024
+prod-storepages.omexexternallfb.office.net.akadns.net,Microsoft Azure RSA TLS Issuing CA 07,external.omex.office.net,30-01-2024,24-01-2025
+oneocsp.microsoft.com,Microsoft Azure RSA TLS Issuing CA 04,*.azureedge.net,03-01-2024,28-12-2024
+fa000000002.resources.office.net,Microsoft Azure ECC TLS Issuing CA 06,resources.office.net,28-07-2023,27-06-2024
+fa000000006.resources.office.net,Microsoft Azure ECC TLS Issuing CA 06,resources.office.net,28-07-2023,27-06-2024
+fa000000012.resources.office.net,Microsoft Azure ECC TLS Issuing CA 06,resources.office.net,28-07-2023,27-06-2024
+fa000000029.resources.office.net,Microsoft Azure ECC TLS Issuing CA 06,resources.office.net,28-07-2023,27-06-2024
+fa000000051.resources.office.net,Microsoft Azure ECC TLS Issuing CA 06,resources.office.net,28-07-2023,27-06-2024
+fa000000059.resources.office.net,Microsoft Azure ECC TLS Issuing CA 06,resources.office.net,28-07-2023,27-06-2024
+fa000000074.resources.office.net,Microsoft Azure ECC TLS Issuing CA 06,resources.office.net,28-07-2023,27-06-2024
+fa000000085.resources.office.net,Microsoft Azure ECC TLS Issuing CA 06,resources.office.net,28-07-2023,27-06-2024
+fa000000096.resources.office.net,Microsoft Azure ECC TLS Issuing CA 06,resources.office.net,28-07-2023,27-06-2024
+fa000000110.resources.office.net,Microsoft Azure ECC TLS Issuing CA 06,resources.office.net,28-07-2023,27-06-2024
+fa000000111.resources.office.net,Microsoft Azure ECC TLS Issuing CA 06,resources.office.net,28-07-2023,27-06-2024
+fa000000116.resources.office.net,Microsoft Azure ECC TLS Issuing CA 06,resources.office.net,28-07-2023,27-06-2024
+fa000000125.resources.office.net,Microsoft Azure ECC TLS Issuing CA 06,resources.office.net,28-07-2023,27-06-2024
+fa000000145.resources.office.net,Microsoft Azure ECC TLS Issuing CA 06,resources.office.net,28-07-2023,27-06-2024
+wa104381125.resources.office.net,Microsoft Azure ECC TLS Issuing CA 06,resources.office.net,28-07-2023,27-06-2024
+a-0003.a-msedge.net,Microsoft Azure RSA TLS Issuing CA 04,*.azureedge.net,03-01-2024,28-12-2024
+ajax.aspnetcdn.com,DigiCert SHA2 Secure Server CA,*.vo.msecnd.net,30-01-2024,30-01-2025
+cs22.wpc.v0cdn.net,DigiCert SHA2 Secure Server CA,*.vo.msecnd.net,30-01-2024,30-01-2025
+browser.pipe.aria.microsoft.com,Microsoft Azure RSA TLS Issuing CA 04,*.events.data.microsoft.com,31-12-2023,25-12-2024
+onedscolprdcus05.centralus.cloudapp.azure.com,Microsoft Azure RSA TLS Issuing CA 04,*.events.data.microsoft.com,31-12-2023,25-12-2024
+collabrtc.officeapps.live.com,Microsoft Azure RSA TLS Issuing CA 07,officeapps.live.com,24-01-2024,18-01-2025
+peu2-collabhubrtc.officeapps.live.com,Microsoft Azure RSA TLS Issuing CA 07,officeapps.live.com,12-01-2024,06-01-2025
+onedscolprdgwc06.germanywestcentral.cloudapp.azure.com,Microsoft Azure RSA TLS Issuing CA 04,*.events.data.microsoft.com,31-12-2023,25-12-2024
+edge-block-previews-env.dropbox-dns.com,DigiCert TLS RSA SHA256 2020 CA1,*.previews.dropboxusercontent.com,23-09-2023,22-10-2024
