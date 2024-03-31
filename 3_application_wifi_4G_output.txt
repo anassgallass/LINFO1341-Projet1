@@ -1,0 +1,469 @@
+Résultats pour 0_4G_before:
+
+===================================
+| IO Statistics                   |
+|                                 |
+| Duration: 60.7 secs             |
+| Interval: 60.7 secs             |
+|                                 |
+| Col 1: Frames and bytes         |
+|---------------------------------|
+|              |1               | |
+| Interval     | Frames | Bytes | |
+|-------------------------------| |
+|  0.0 <> 60.7 |     84 |  7568 | |
+===================================
+
+IPs uniques pour 0_4G_before: {'172.20.10.12'}
+
+Résultats pour 1_4G_connexion:
+
+===================================
+| IO Statistics                   |
+|                                 |
+| Duration: 24.3 secs             |
+| Interval: 24.3 secs             |
+|                                 |
+| Col 1: Frames and bytes         |
+|---------------------------------|
+|              |1                 |
+| Interval     | Frames |  Bytes  |
+|---------------------------------|
+|  0.0 <> 24.3 |   2275 | 1238669 |
+===================================
+
+IPs uniques pour 1_4G_connexion: {'172.20.10.1', '172.20.10.12'}
+
+Résultats pour 2_4G_folder:
+
+====================================
+| IO Statistics                    |
+|                                  |
+| Duration: 9.856 secs             |
+| Interval: 9.856 secs             |
+|                                  |
+| Col 1: Frames and bytes          |
+|----------------------------------|
+|                |1                |
+| Interval       | Frames |  Bytes |
+|----------------------------------|
+| 0.000 <> 9.856 |    325 | 121665 |
+====================================
+
+IPs uniques pour 2_4G_folder: {'162.125.65.18', '172.20.10.12'}
+
+Résultats pour 3a_4G_upload_word:
+
+==================================
+| IO Statistics                  |
+|                                |
+| Duration: 10.2 secs            |
+| Interval: 10.2 secs            |
+|                                |
+| Col 1: Frames and bytes        |
+|--------------------------------|
+|              |1                |
+| Interval     | Frames |  Bytes |
+|--------------------------------|
+|  0.0 <> 10.2 |    343 | 137722 |
+==================================
+
+IPs uniques pour 3a_4G_upload_word: {'18.239.62.218', '172.20.10.12'}
+
+Résultats pour 3b_4G_upload_video:
+
+====================================
+| IO Statistics                    |
+|                                  |
+| Duration: 29.8 secs              |
+| Interval: 29.8 secs              |
+|                                  |
+| Col 1: Frames and bytes          |
+|----------------------------------|
+|              |1                  |
+| Interval     | Frames |   Bytes  |
+|----------------------------------|
+|  0.0 <> 29.8 |   9322 | 22039353 |
+====================================
+
+IPs uniques pour 3b_4G_upload_video: {'66.102.1.94'}
+
+Résultats pour 4a_4G_visu_word:
+
+====================================
+| IO Statistics                    |
+|                                  |
+| Duration: 8.707 secs             |
+| Interval: 8.707 secs             |
+|                                  |
+| Col 1: Frames and bytes          |
+|----------------------------------|
+|                |1                |
+| Interval       | Frames |  Bytes |
+|----------------------------------|
+| 0.000 <> 8.707 |    787 | 372431 |
+====================================
+
+IPs uniques pour 4a_4G_visu_word: {'34.120.208.123', '172.20.10.12'}
+
+Résultats pour 4b_4G_visu_video:
+
+===================================
+| IO Statistics                   |
+|                                 |
+| Duration: 25.1 secs             |
+| Interval: 25.1 secs             |
+|                                 |
+| Col 1: Frames and bytes         |
+|---------------------------------|
+|              |1                 |
+| Interval     | Frames |  Bytes  |
+|---------------------------------|
+|  0.0 <> 25.1 |   2518 | 4591364 |
+===================================
+
+IPs uniques pour 4b_4G_visu_video: {'162.125.65.18', '172.20.10.12'}
+
+Résultats pour 5a_4G_download_word:
+
+===================================
+| IO Statistics                   |
+|                                 |
+| Duration: 8.395 secs            |
+| Interval: 8.395 secs            |
+|                                 |
+| Col 1: Frames and bytes         |
+|---------------------------------|
+|                |1               |
+| Interval       | Frames | Bytes |
+|---------------------------------|
+| 0.000 <> 8.395 |    224 | 92494 |
+===================================
+
+IPs uniques pour 5a_4G_download_word: {'172.20.10.12'}
+
+Résultats pour 5b_4G_download_video:
+
+======================================
+| IO Statistics                      |
+|                                    |
+| Duration: 8.671 secs               |
+| Interval: 8.671 secs               |
+|                                    |
+| Col 1: Frames and bytes            |
+|------------------------------------|
+|                |1                  |
+| Interval       | Frames |   Bytes  |
+|------------------------------------|
+| 0.000 <> 8.671 |   4187 | 20804172 |
+======================================
+
+IPs uniques pour 5b_4G_download_video: {'172.20.10.1', '172.20.10.12'}
+
+Résultats pour 6_4G_delete_video:
+
+==================================
+| IO Statistics                  |
+|                                |
+| Duration: 22.8 secs            |
+| Interval: 22.8 secs            |
+|                                |
+| Col 1: Frames and bytes        |
+|--------------------------------|
+|              |1                |
+| Interval     | Frames |  Bytes |
+|--------------------------------|
+|  0.0 <> 22.8 |   1041 | 419702 |
+==================================
+
+IPs uniques pour 6_4G_delete_video: {'162.125.65.18', '172.20.10.12'}
+
+Résultats pour 7_4G_share_word:
+
+====================================
+| IO Statistics                    |
+|                                  |
+| Duration: 9.902 secs             |
+| Interval: 9.902 secs             |
+|                                  |
+| Col 1: Frames and bytes          |
+|----------------------------------|
+|                |1                |
+| Interval       | Frames |  Bytes |
+|----------------------------------|
+| 0.000 <> 9.902 |    563 | 314151 |
+====================================
+
+IPs uniques pour 7_4G_share_word: {'172.20.10.1', '172.20.10.12'}
+
+Résultats pour 8_4G_modif_shared_word:
+
+===================================
+| IO Statistics                   |
+|                                 |
+| Duration: 41.5 secs             |
+| Interval: 41.5 secs             |
+|                                 |
+| Col 1: Frames and bytes         |
+|---------------------------------|
+|              |1                 |
+| Interval     | Frames |  Bytes  |
+|---------------------------------|
+|  0.0 <> 41.5 |   4161 | 2344477 |
+===================================
+
+IPs uniques pour 8_4G_modif_shared_word: {'172.20.10.1', '172.20.10.12'}
+
+Résultats pour 9_4G_deconnexion:
+
+====================================
+| IO Statistics                    |
+|                                  |
+| Duration: 8.015 secs             |
+| Interval: 8.015 secs             |
+|                                  |
+| Col 1: Frames and bytes          |
+|----------------------------------|
+|                |1                |
+| Interval       | Frames |  Bytes |
+|----------------------------------|
+| 0.000 <> 8.015 |    626 | 346204 |
+====================================
+
+IPs uniques pour 9_4G_deconnexion: {'172.20.10.1', '172.20.10.12'}
+
+
+
+Résultats pour 0_wifi_before:
+
+===================================
+| IO Statistics                   |
+|                                 |
+| Duration: 60.9 secs             |
+| Interval: 60.9 secs             |
+|                                 |
+| Col 1: Frames and bytes         |
+|---------------------------------|
+|              |1               | |
+| Interval     | Frames | Bytes | |
+|-------------------------------| |
+|  0.0 <> 60.9 |    167 | 15393 | |
+===================================
+
+IPs uniques pour 0_wifi_before: {'2600:1901:0:38d7::', '2a02:a03f:ad5d:a300:1ac6:8813:4fb7:125e'}
+
+Résultats pour 1_wifi_connexion:
+
+===================================
+| IO Statistics                   |
+|                                 |
+| Duration: 31.7 secs             |
+| Interval: 31.7 secs             |
+|                                 |
+| Col 1: Frames and bytes         |
+|---------------------------------|
+|              |1                 |
+| Interval     | Frames |  Bytes  |
+|---------------------------------|
+|  0.0 <> 31.7 |   5036 | 3593441 |
+===================================
+
+IPs uniques pour 1_wifi_connexion: {'192.168.1.52', '192.168.1.1'}
+
+Résultats pour 2_wifi_folder:
+
+==================================
+| IO Statistics                  |
+|                                |
+| Duration: 14.9 secs            |
+| Interval: 14.9 secs            |
+|                                |
+| Col 1: Frames and bytes        |
+|--------------------------------|
+|              |1                |
+| Interval     | Frames |  Bytes |
+|--------------------------------|
+|  0.0 <> 14.9 |    375 | 148614 |
+==================================
+
+IPs uniques pour 2_wifi_folder: {'192.168.1.52', '13.225.21.174'}
+
+Résultats pour 3a_wifi_upload_word:
+
+==================================
+| IO Statistics                  |
+|                                |
+| Duration: 15.6 secs            |
+| Interval: 15.6 secs            |
+|                                |
+| Col 1: Frames and bytes        |
+|--------------------------------|
+|              |1                |
+| Interval     | Frames |  Bytes |
+|--------------------------------|
+|  0.0 <> 15.6 |    337 | 141173 |
+==================================
+
+IPs uniques pour 3a_wifi_upload_word: {'192.168.1.52', '162.125.21.3'}
+
+Résultats pour 3b_wifi_upload_video:
+
+====================================
+| IO Statistics                    |
+|                                  |
+| Duration: 18.9 secs              |
+| Interval: 18.9 secs              |
+|                                  |
+| Col 1: Frames and bytes          |
+|----------------------------------|
+|              |1                  |
+| Interval     | Frames |   Bytes  |
+|----------------------------------|
+|  0.0 <> 18.9 |  11225 | 22513956 |
+====================================
+
+IPs uniques pour 3b_wifi_upload_video: {'2a02:a03f:ad5d:a300:1ac6:8813:4fb7:125e'}
+
+Résultats pour 4a_wifi_visu_word:
+
+====================================
+| IO Statistics                    |
+|                                  |
+| Duration: 9.525 secs             |
+| Interval: 9.525 secs             |
+|                                  |
+| Col 1: Frames and bytes          |
+|----------------------------------|
+|                |1                |
+| Interval       | Frames |  Bytes |
+|----------------------------------|
+| 0.000 <> 9.525 |    994 | 645322 |
+====================================
+
+IPs uniques pour 4a_wifi_visu_word: {'2a02:a03f:ad5d:a300:1ac6:8813:4fb7:125e', '2620:100:6021:18::a27d:4112'}
+
+Résultats pour 4b_wifi_visu_video:
+
+===================================
+| IO Statistics                   |
+|                                 |
+| Duration: 26.9 secs             |
+| Interval: 26.9 secs             |
+|                                 |
+| Col 1: Frames and bytes         |
+|---------------------------------|
+|              |1                 |
+| Interval     | Frames |  Bytes  |
+|---------------------------------|
+|  0.0 <> 26.9 |   2836 | 4917206 |
+===================================
+
+IPs uniques pour 4b_wifi_visu_video: {'fe80::1877:893a:1a1b:ca06', 'ff02::fb'}
+
+Résultats pour 5a_wifi_download_word:
+
+===================================
+| IO Statistics                   |
+|                                 |
+| Duration: 5.771 secs            |
+| Interval: 5.771 secs            |
+|                                 |
+| Col 1: Frames and bytes         |
+|---------------------------------|
+|                |1               |
+| Interval       | Frames | Bytes |
+|---------------------------------|
+| 0.000 <> 5.771 |    155 | 69120 |
+===================================
+
+IPs uniques pour 5a_wifi_download_word: {'2a02:a03f:ad5d:a300:1ac6:8813:4fb7:125e'}
+
+Résultats pour 5b_wifi_download_video:
+
+======================================
+| IO Statistics                      |
+|                                    |
+| Duration: 9.181 secs               |
+| Interval: 9.181 secs               |
+|                                    |
+| Col 1: Frames and bytes            |
+|------------------------------------|
+|                |1                  |
+| Interval       | Frames |   Bytes  |
+|------------------------------------|
+| 0.000 <> 9.181 |   6270 | 21055494 |
+======================================
+
+IPs uniques pour 5b_wifi_download_video: {'ff:ff:ff:ff:ff:ff', '2a02:a03f:ad5d:a300:1ac6:8813:4fb7:125e'}
+
+Résultats pour 6_wifi_delete_video:
+
+==================================
+| IO Statistics                  |
+|                                |
+| Duration: 26.7 secs            |
+| Interval: 26.7 secs            |
+|                                |
+| Col 1: Frames and bytes        |
+|--------------------------------|
+|              |1                |
+| Interval     | Frames |  Bytes |
+|--------------------------------|
+|  0.0 <> 26.7 |    967 | 446345 |
+==================================
+
+IPs uniques pour 6_wifi_delete_video: {'192.168.1.1', '192.168.1.255'}
+
+Résultats pour 7_wifi_share_word:
+
+==================================
+| IO Statistics                  |
+|                                |
+| Duration: 10.6 secs            |
+| Interval: 10.6 secs            |
+|                                |
+| Col 1: Frames and bytes        |
+|--------------------------------|
+|              |1                |
+| Interval     | Frames |  Bytes |
+|--------------------------------|
+|  0.0 <> 10.6 |    567 | 264909 |
+==================================
+
+IPs uniques pour 7_wifi_share_word: {'2a02:a03f:ad5d:a300:1ac6:8813:4fb7:125e', '192.168.1.52'}
+
+Résultats pour 8_wifi_modif_shared_word:
+
+===================================
+| IO Statistics                   |
+|                                 |
+| Duration: 40.6 secs             |
+| Interval: 40.6 secs             |
+|                                 |
+| Col 1: Frames and bytes         |
+|---------------------------------|
+|              |1                 |
+| Interval     | Frames |  Bytes  |
+|---------------------------------|
+|  0.0 <> 40.6 |   6636 | 9171334 |
+===================================
+
+IPs uniques pour 8_wifi_modif_shared_word: {'ff:ff:ff:ff:ff:ff', '36:60:f9:0b:2c:10'}
+
+Résultats pour 9_wifi_deconnexion:
+
+====================================
+| IO Statistics                    |
+|                                  |
+| Duration: 9.599 secs             |
+| Interval: 9.599 secs             |
+|                                  |
+| Col 1: Frames and bytes          |
+|----------------------------------|
+|                |1                |
+| Interval       | Frames |  Bytes |
+|----------------------------------|
+| 0.000 <> 9.599 |    676 | 450900 |
+====================================
+
+IPs uniques pour 9_wifi_deconnexion: {'2620:100:6021:18::a27d:4112'}
