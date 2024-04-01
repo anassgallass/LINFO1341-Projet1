@@ -3,8 +3,8 @@
 ## Informations Générales
 
 - **Auteurs**:
-  - Mohamed-Anass GALLASS, étudiant à l'UCLouvain, School Of Engineering
   - Gloria Akli-Kodjo-Mensah, étudiante à l'UCLouvain, School Of Engineering
+  - Mohamed-Anass GALLASS, étudiant à l'UCLouvain, School Of Engineering
 - **Date**: Mars 2024
 
 ## Objectif
@@ -43,9 +43,6 @@ Dans le dosser capture/, les éléments centrales à considérer sont :
   - **wireshark**: Captures Wireshark selon les scénarios de tests
   - **Swireshark/SLKEYLOG/sslKEY4G**: Fichiers SSL key log pour le trafic 4G
   - **certificates_4G.csv** : les datas des certificats nécessaires à l'analayse.
-- **caputure/video**: Vidéos des tests de scénarios
-  - `4G-video.webm`
-  - `WIFI_video.webm`
 - **caputure/wifi**: Contient les captures et analyses en wifi
   - **wireshark**: Captures Wireshark selon les scénarios de tests
   - **wireshark/SSLKEYLOG/sslKEYWIFI**: Fichiers SSL key log pour le trafic wifi
